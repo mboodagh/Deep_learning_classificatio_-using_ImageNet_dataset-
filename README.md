@@ -3,4 +3,4 @@ This repository contains two ".py" files. The first file, "ImageNet_downloader.p
 The "cat_dog_classification.py" used PyTorch DataLoader for loading the data and classifying the images using the one-hot coding. 
 
 
-The file "cat_dog_classification.py" utilisez argparse and after execution asks for the input root.
+The file "cat_dog_classification.py" utilisez argparse and after execution asks for the input root and the name of the categories of interest like cat and dog. Alternatively, its possible to mark the lines corresponding to argparse and manually specify the input root and the categories.
