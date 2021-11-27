@@ -9,6 +9,7 @@ my_classlist=args.class_list
 my_imageroot=args.imagenet_root
 my_classlist=args.class_list
 
+#####activate the the two below codes if you don't want to use argparse
 #my_imageroot='/content/drive/MyDrive/Deep_learning/HW2/'
 #my_classlist=['cat', 'dog']
 import os
